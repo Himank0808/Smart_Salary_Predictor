@@ -13,10 +13,6 @@ The full survey dataset is hosted externally due to file size constraints.
 You can download it here:  
 [Survey CSV (Google Drive)](https://drive.google.com/file/d/1CY9ekyUQQwjDjDUTZaAxDYXtog8q_0eH/view?usp=sharing)
 
-> **Important:**  
-> - Download the file and place it in the project root folder as `survey.csv`.  
-> - A small sample file `sample_survey.csv` (100 rows) is included in this repository for quick testing.
-
 ---
 
 ## 🧠 Objectives
@@ -53,7 +49,7 @@ You can download it here:
 ## 🧮 Tech Stack
 - **Language:** Python  
 - **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn  
-- **Environment:** Jupyter Notebook (or equivalent)
+- **Environment:** Jupyter Notebook 
 
 ---
 
